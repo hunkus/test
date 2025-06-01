@@ -26,7 +26,7 @@ pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Debian/main/
 #### Debian 12 (Bookworm)
 Rootfs : Armhf, Arm64, Amd64
 ```
-pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Debian/main/Install/debian12.sh ; chmod +x debian12.sh ; ./debian12.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/hunkus/test/main/debian12.sh ; chmod +x debian12.sh ; ./debian12.sh
 ```
 
 #### List Ubuntu | [Click Hare >](https://github.com/wahasa/Debian/tree/main/Install)
